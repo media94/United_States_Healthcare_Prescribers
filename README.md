@@ -45,5 +45,6 @@ This data is from Centers for Medicare and Medicaid Services (CMS.gov) and conta
 # Known Issues and Challenges
 Its big data contain 84 features.
 - I plan to EDA and extract important attributes that will help to identify providers that practice fraudulent activities.
-Missing values.
+
+Missing values
 - I plan to find effective approaches to impute or fill the missing values.
