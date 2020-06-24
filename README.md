@@ -29,6 +29,7 @@ How to filter the providers, and identify the suspicious ones by visualizing
 - What are drug costs in top ten states and top ten specialty categories?
 - Is patient risk correlated to cost? (scatter plot)
 
+<<<<<<< HEAD
 # Data Limitations 
 * It contains 84 features of aggregated measures.
 * It does not indicate the quality of care provided by individual providers.
@@ -40,6 +41,25 @@ This link will lead you to the tools created for this project.
 https://public.tableau.com/views/OverviewofUSHealtharePrescribersin2017/US_Healthcare_Providers?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 ![Dashboard Preview ](/images/overivew-prescribers-dashboard.png)
+=======
+- Number of Providers 
+- Number of claims 
+- Average claims per Providers 
+- Average 30- day refill per Providers 
+- Average drug costs per Providers 
+
+- Calculate total charge per provider
+- Distribution of patient severity of illness per drug
+- Cost per drug
+- Prescription per drug
+
+Schedule (through 6/25/2020)
+1.	Get the Data (05/30/2020)
+2.	Clean & Explore the Data (06/12/2020)
+3.	Create Presentation  (06/17/2020)
+4.	Internal Demos (6/19/2020)
+5.	Demo Day (6/25/2020)
+>>>>>>> d976cd9a256c0f8742dfed62b8de3540590bbbef
 
 # Data Sources
 Part D Prescriber Summary Table CY2017 
