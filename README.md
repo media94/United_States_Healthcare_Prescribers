@@ -24,7 +24,6 @@ How to filter the providers, and identify the suspicious ones.
 
 - Calculate total charge per provider
 - Distribution of patient severity of illness per drug
-- Patient demographic distribution (Age, race, sex)
 - Cost per drug
 - Prescription per drug
 
